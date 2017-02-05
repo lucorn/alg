@@ -5,5 +5,5 @@ class First
 
 First::First()
 {
-    cout << "hi" << endl;
+    cout << "hi again" << endl;
 }
